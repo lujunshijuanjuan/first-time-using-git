@@ -1,3 +1,7 @@
 first time using git, exiting!
-第一次使用git哈哈
+第一次使用git
+
 second time using git
+
+third using git
+
